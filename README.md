@@ -1,5 +1,4 @@
-
-#AI-Driven Employee Engagement and Performance Analytics
+# AI-Driven Employee Engagement and Performance Analytics
 ## Overview
 
 This project aims to predict employee attrition in an organization using the IBM Employee Attrition dataset. By employing data preprocessing techniques, machine learning models, and explainable AI methods, we analyze the factors influencing employee turnover and provide actionable insights to reduce attrition rates. This project aligns with the objectives of modernizing data infrastructure and generating insights, crucial for the People Analytics function at Microsoft.
